@@ -18,7 +18,7 @@
   <img align="center" alt="laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=whit)"/>
 </div><br/>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murylo1050&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murylo1050&layout=compact&theme=dark)
   ![Murylo Stats](https://github-readme-stats.vercel.app/api?username=Murylo1050&show_icons=true&theme=dark)
 
 
