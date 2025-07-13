@@ -18,10 +18,7 @@
   <img align="center" alt="laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=whit)"/>
 </div><br/>
 
-
-
-<div style="display: flex">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murylo1050&size_weight=0.5&count_weight=0.5)
   ![Murylo Stats](https://github-readme-stats.vercel.app/api?username=Murylo1050&show_icons=true&theme=dark)
-</div>
+
 
