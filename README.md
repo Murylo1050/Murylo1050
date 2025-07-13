@@ -19,4 +19,9 @@
 </div><br/>
 
 
-![Murylo Stats](https://github-readme-stats.vercel.app/api?username=Murylo1050&show_icons=true&theme=dark)
+
+<div style="display: flex">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+  ![Murylo Stats](https://github-readme-stats.vercel.app/api?username=Murylo1050&show_icons=true&theme=dark)
+</div>
+
