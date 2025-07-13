@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Murylo!
+## My name is Murylo! I'm currently a Fullstack Developer and college student at UFES (Universidade Federal do Espírito Santo). Here’s how you can contact me:
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://murylo.diasolirub@gmail.com)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/murylo-dias/)
